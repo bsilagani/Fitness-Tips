@@ -1,0 +1,45 @@
+{
+  "id": "e160884b-c78c-4a59-aaa0-3f602f8c4c7a",
+  "name": "no-tip",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "No problem. Thank you",
+            "No problem.",
+            "Thank you! See you next time.",
+            "No problem. See you next time.",
+            "No problem. Have a wonderful day."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "No problem. Thank you",
+            "No problem.",
+            "Thank you! See you next time.",
+            "No problem. See you next time.",
+            "No problem. Have a wonderful day."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511240317,
+  "fallbackIntent": false,
+  "events": []
+}

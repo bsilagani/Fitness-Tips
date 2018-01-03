@@ -1,0 +1,41 @@
+{
+  "description": "Provides Fitness \u0026 Yoga Tips for fitness enthusiasts.",
+  "language": "en",
+  "disableInteractionLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "floristshop-860a0",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "33e94e56-67a0-439a-a9d8-c34a9b25de18",
+      "e160884b-c78c-4a59-aaa0-3f602f8c4c7a"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2"
+  },
+  "defaultTimezone": "Asia/Almaty",
+  "webhook": {
+    "url": "https://us-central1-fitnesstips-38f7f.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "headers": {
+      "": ""
+    },
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [
+    "en-in"
+  ],
+  "enableOnePlatformApi": true
+}

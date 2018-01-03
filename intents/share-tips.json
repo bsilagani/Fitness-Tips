@@ -1,0 +1,121 @@
+{
+  "id": "3b539784-0f54-49ee-a62c-90de9b5cd31f",
+  "name": "share-tips",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-in",
+          "suggestions": [
+            {
+              "title": "Next tip"
+            },
+            {
+              "title": "Thank you"
+            },
+            {
+              "title": "Quit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Put your tongue on the roof of your mouth when you do crunches. It will help align your head properly, which helps reduce neck strain. Would you like to hear the next tip?",
+            "If you\u0027re under 40, hold your stretches for 30 seconds. If you\u0027re over 40, hold them for 60 seconds. As you reach your 40s, your muscles become less pliable, so they need to be stretched longer. Would you like to hear the next tip?",
+            "Keep your weight workouts under an hour. After 60 minutes, your body starts producing more of the stress hormone cortisol, which can have a testosterone-blocking, muscle-wasting effect. Would you like to hear the next tip?",
+            "Use dumbbells, barbells, and machines—in that order. The smaller, stabilizer muscles you use with dumbbells fatigue before your larger muscle groups. Would you like to hear the next tip?",
+            "When doing lat pulldowns, don\u0027t wrap your thumb around the bar. Instead, place it on top, alongside your index finger. This decreases the involvement of your arm muscles, so you\u0027ll work your back harder. Works for pull-ups, too. Would you like to hear the next tip?",
+            "For every set of abdominal exercises you perform, do a set of lower-back exercises. Focusing only on your abs can lead to poor posture and lower-back pain. Would you like to hear the next tip?",
+            "Satisfy your sugar cravings immediately after your workout. Eat at least 20 grams along with some protein. The sugar will help carry protein to the muscles you\u0027ve just worked. So have a soda with your tuna sandwich, but limit your sugar intake the rest of the day. Would you like to hear the next tip?",
+            "Break cable rows into two parts. Hold the bar with your arms outstretched and squeeze your shoulder blades together. Then pull the bar to your body. Would you like to hear the next tip?",
+            "To see if you\u0027re overtraining, check your pulse first thing in the morning the day after a workout. If it\u0027s 10 beats per minute or more above normal, your body is still recovering. Would you like to hear the next tip?",
+            "To strengthen your grip, wrap a towel around the bar when you do arm curls. It makes the bar thicker, which forces your forearm muscles to work harder. Would you like to hear the next tip?",
+            "Skip the treadmill warmup before lifting weights. Instead, do a warmup that targets the muscles you\u0027ll be using. For a full-body warmup, grab a bar and do two sets of 10 repetitions each of the squat, deadlift, bench press, and bent-over row. Would you like to hear the next tip?",
+            "Push from your toes when you do leg presses. Your quadriceps will work harder. Would you like to hear the next tip?",
+            "When you run, breathe so that your belly rises as you inhale. This ensures that your lungs are inflating fully with oxygen, so you\u0027ll be able to go longer. Would you like to hear the next tip?",
+            "When doing standing arm curls, completely straighten your arms by flexing your triceps at the end of each repetition. This ensures that you work the muscle through its entire range of motion. Would you like to hear the next tip?",
+            "Do squats and deadlifts . . . to build your abs. Research shows that these two exercises force your abdominal muscles to do a significant amount of work to maintain your posture. Would you like to hear the next tip?",
+            "Exercise one arm at time. Do a set of shoulder presses with your left arm, then do a set with your right. You\u0027ll get higher-quality sets than if you work both arms at the same time. Would you like to hear the next tip?",
+            "When you do reverse crunches and hanging knee raises, round your back by rolling your hips and pelvis toward your chest, instead of simply raising your legs. Otherwise, you\u0027re mainly working your hip flexors—the muscles at the top of your thighs. Would you like to hear the next tip?",
+            "Go faster for shorter distances to improve your running form. You\u0027ll not only perform better, but you\u0027ll also be less susceptible to injuries. Would you like to hear the next tip?",
+            "If you\u0027re a runner and your calves feel tight when you wake up in the morning, try sleeping on your stomach with your feet hanging off the bed. Gravity will take over, lightly stretching the calf muscles all night. Would you like to hear the next tip?",
+            "Squeeze your butt muscles when you lift weights over your head. You\u0027ll force your body into a position that automatically stabilizes your spine, which lowers your risk of back injuries. Would you like to hear the next tip?",
+            "Lift weights to run faster. A study in the Journal of Applied Physiology found that 8 weeks of resistance training improved experienced runners\u0027 5-K times by 30 seconds. Would you like to hear the next tip?",
+            "For stronger legs, do lunges in reverse. This forces your front leg to work throughout the entire exercise. Use the same movement pattern as in a traditional lunge, but step backward instead of forward. Would you like to hear the next tip?",
+            "When running uphill, keep your head up and your eyes focused on the top of the hill. This opens your airways, making it easier to breathe than if your upper body were hunched forward. Would you like to hear the next tip?",
+            "Don\u0027t think about pulling yourself up when you do chin-ups. Instead, imagine pulling your elbows down. The exercise will seem easier. Would you like to hear the next tip?",
+            "Exhale forcefully at the top of the movement when you do abdominal crunches. It forces your abs to work harder. Would you like to hear the next tip?",
+            "Count your repetitions backward. When you near the end of the set, you\u0027ll think about how many you have left instead of how many you\u0027ve done. Would you like to hear the next tip?"
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Next tip"
+            },
+            {
+              "title": "Thank you"
+            },
+            {
+              "title": "Quit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Put your tongue on the roof of your mouth when you do crunches. It will help align your head properly, which helps reduce neck strain. Would you like to hear the next tip?",
+            "If you\u0027re under 40, hold your stretches for 30 seconds. If you\u0027re over 40, hold them for 60 seconds. As you reach your 40s, your muscles become less pliable, so they need to be stretched longer. Would you like to hear the next tip?",
+            "Keep your weight workouts under an hour. After 60 minutes, your body starts producing more of the stress hormone cortisol, which can have a testosterone-blocking, muscle-wasting effect. Would you like to hear the next tip?",
+            "Use dumbbells, barbells, and machines—in that order. The smaller, stabilizer muscles you use with dumbbells fatigue before your larger muscle groups. Would you like to hear the next tip?",
+            "When doing lat pulldowns, don\u0027t wrap your thumb around the bar. Instead, place it on top, alongside your index finger. This decreases the involvement of your arm muscles, so you\u0027ll work your back harder. Works for pull-ups, too. Would you like to hear the next tip?",
+            "For every set of abdominal exercises you perform, do a set of lower-back exercises. Focusing only on your abs can lead to poor posture and lower-back pain. Would you like to hear the next tip?",
+            "Satisfy your sugar cravings immediately after your workout. Eat at least 20 grams along with some protein. The sugar will help carry protein to the muscles you\u0027ve just worked. So have a soda with your tuna sandwich, but limit your sugar intake the rest of the day. Would you like to hear the next tip?",
+            "Break cable rows into two parts. Hold the bar with your arms outstretched and squeeze your shoulder blades together. Then pull the bar to your body. Would you like to hear the next tip?",
+            "To see if you\u0027re overtraining, check your pulse first thing in the morning the day after a workout. If it\u0027s 10 beats per minute or more above normal, your body is still recovering. Would you like to hear the next tip?",
+            "To strengthen your grip, wrap a towel around the bar when you do arm curls. It makes the bar thicker, which forces your forearm muscles to work harder. Would you like to hear the next tip?",
+            "Skip the treadmill warmup before lifting weights. Instead, do a warmup that targets the muscles you\u0027ll be using. For a full-body warmup, grab a bar and do two sets of 10 repetitions each of the squat, deadlift, bench press, and bent-over row. Would you like to hear the next tip?",
+            "Push from your toes when you do leg presses. Your quadriceps will work harder. Would you like to hear the next tip?",
+            "When you run, breathe so that your belly rises as you inhale. This ensures that your lungs are inflating fully with oxygen, so you\u0027ll be able to go longer. Would you like to hear the next tip?",
+            "When doing standing arm curls, completely straighten your arms by flexing your triceps at the end of each repetition. This ensures that you work the muscle through its entire range of motion. Would you like to hear the next tip?",
+            "Do squats and deadlifts . . . to build your abs. Research shows that these two exercises force your abdominal muscles to do a significant amount of work to maintain your posture. Would you like to hear the next tip?",
+            "Exercise one arm at time. Do a set of shoulder presses with your left arm, then do a set with your right. You\u0027ll get higher-quality sets than if you work both arms at the same time. Would you like to hear the next tip?",
+            "When you do reverse crunches and hanging knee raises, round your back by rolling your hips and pelvis toward your chest, instead of simply raising your legs. Otherwise, you\u0027re mainly working your hip flexors—the muscles at the top of your thighs. Would you like to hear the next tip?",
+            "Go faster for shorter distances to improve your running form. You\u0027ll not only perform better, but you\u0027ll also be less susceptible to injuries. Would you like to hear the next tip?",
+            "If you\u0027re a runner and your calves feel tight when you wake up in the morning, try sleeping on your stomach with your feet hanging off the bed. Gravity will take over, lightly stretching the calf muscles all night. Would you like to hear the next tip?",
+            "Squeeze your butt muscles when you lift weights over your head. You\u0027ll force your body into a position that automatically stabilizes your spine, which lowers your risk of back injuries. Would you like to hear the next tip?",
+            "Lift weights to run faster. A study in the Journal of Applied Physiology found that 8 weeks of resistance training improved experienced runners\u0027 5-K times by 30 seconds. Would you like to hear the next tip?",
+            "For stronger legs, do lunges in reverse. This forces your front leg to work throughout the entire exercise. Use the same movement pattern as in a traditional lunge, but step backward instead of forward. Would you like to hear the next tip?",
+            "When running uphill, keep your head up and your eyes focused on the top of the hill. This opens your airways, making it easier to breathe than if your upper body were hunched forward. Would you like to hear the next tip?",
+            "Don\u0027t think about pulling yourself up when you do chin-ups. Instead, imagine pulling your elbows down. The exercise will seem easier. Would you like to hear the next tip?",
+            "Exhale forcefully at the top of the movement when you do abdominal crunches. It forces your abs to work harder. Would you like to hear the next tip?",
+            "Count your repetitions backward. When you near the end of the set, you\u0027ll think about how many you have left instead of how many you\u0027ve done. Would you like to hear the next tip?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

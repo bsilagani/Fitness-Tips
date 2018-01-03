@@ -1,0 +1,47 @@
+{
+  "id": "33e94e56-67a0-439a-a9d8-c34a9b25de18",
+  "name": "quit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Thanks! Have a wonderful day.",
+            "Thank you. See you next time.",
+            "You\u0027re Welcome.",
+            "Thank you."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Thanks! Have a wonderful day.",
+            "Thank you. See you next time.",
+            "You\u0027re Welcome.",
+            "Thank you."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511024839,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_CANCEL"
+    }
+  ]
+}

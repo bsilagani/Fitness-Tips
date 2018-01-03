@@ -1,0 +1,148 @@
+[
+  {
+    "id": "b439872b-f991-4c31-b3ac-17660dec0ac4",
+    "data": [
+      {
+        "text": "sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c1a5a4d-6994-41fa-8479-a70717c9013a",
+    "data": [
+      {
+        "text": "yo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9368d7d7-130a-4caf-ae50-fecf516bff90",
+    "data": [
+      {
+        "text": "temme a tip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f5b6e302-7dac-4d30-982a-06d509bc0bfa",
+    "data": [
+      {
+        "text": "one more tip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89a9f3ca-e90d-4a72-9751-a46ff4113da3",
+    "data": [
+      {
+        "text": "next",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3059cf2a-37a4-44f6-834d-2c2cc477957c",
+    "data": [
+      {
+        "text": "tell me a tip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2d2e4250-a2b1-4a19-821c-0d3075c8899d",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c17031a-fa02-49f3-a6c8-2173cafcc617",
+    "data": [
+      {
+        "text": "more tips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f443e25-3053-4855-94dd-5cfc20f1a921",
+    "data": [
+      {
+        "text": "temme tips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79486651-368d-44e6-9208-ec5d9b850d36",
+    "data": [
+      {
+        "text": "yeah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b889cfa-5e30-4d77-b429-9b0f08b09740",
+    "data": [
+      {
+        "text": "next tip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c20f133f-7aad-4aee-a829-a1fb703a03fd",
+    "data": [
+      {
+        "text": "share a tip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcd0c891-a026-4791-992b-703101d833b3",
+    "data": [
+      {
+        "text": "tell me a fitness tip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
